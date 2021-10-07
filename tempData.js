@@ -5,7 +5,7 @@ const tempData = [
     color: 'green',
     todos: [
       {
-        title: 'Facewash',
+        title: 'Elephant',
         completed: false,
       },
       {
@@ -24,7 +24,7 @@ const tempData = [
   },
   {
     name: 'Eat',
-    color: 'green',
+    color: 'orange',
     todos: [
       {
         title: 'Facewash',
@@ -46,7 +46,7 @@ const tempData = [
   },
   {
     name: 'Walk',
-    color: 'green',
+    color: 'cyan',
     todos: [
       {
         title: 'Facewash',
@@ -68,7 +68,7 @@ const tempData = [
   },
   {
     name: 'Blah',
-    color: 'green',
+    color: 'pink',
     todos: [
       {
         title: 'Facewash',
