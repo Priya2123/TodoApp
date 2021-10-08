@@ -29,9 +29,9 @@ class App extends React.Component {
             keyExtractor={item => item.name}
             horizontal={true}
             showHorizontalScrollIndicator={false}
-            renderItem={({item}) => (
+            renderItem={item => (
               <View>
-                <Text>{item.name}</Text>
+                <Text>{item}</Text>
               </View>
             )}
           />
